@@ -1,7 +1,7 @@
 <div align="center">
 
 # Djama Ali Houssein
-### Statisticien | Économétrie | Data Science | Intelligence artificielle
+### Statisticien | Économétrie | Intelligence artificielle
 
 **Chef du Bureau régional de la statistique — INSTAD | Ali-Sabieh, Djibouti**
 
