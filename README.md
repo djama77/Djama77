@@ -1,9 +1,9 @@
 <div align="center">
 
 # Djama Ali Houssein
-### Statisticien • Économétrie • Data Analytics • Intelligence artificielle
+### Statisticien | Économétrie | Data Science | Intelligence artificielle
 
-**INSTAD — Bureau régional de la statistique | Ali Sabieh**
+**Chef du Bureau régional de la statistique — INSTAD | Ali-Sabieh, Djibouti**
 
 [![GitHub](https://img.shields.io/badge/GitHub-djama77-0B2345?logo=github&logoColor=white)](https://github.com/djama77)
 
