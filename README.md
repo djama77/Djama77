@@ -6,6 +6,7 @@
 **Chef du Bureau régional de la statistique — INSTAD | Ali-Sabieh, Djibouti**
 
 [![GitHub](https://img.shields.io/badge/GitHub-djama77-0B2345?logo=github&logoColor=white)](https://github.com/djama77)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Djama_Ali_Houssein-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djama-ali-b986a41a3)
 
 *Des données fiables pour des décisions éclairées.*
 
@@ -71,8 +72,8 @@ Projet de suivi-évaluation régional et de tableaux de bord des indicateurs de 
 
 <div align="center">
 
-**Statistiques officielles · Data Science · Innovation numérique**
+**Statistiques officielles · Économétrie · Innovation numérique**
 
-[Explorer mes dépôts GitHub](https://github.com/djama77?tab=repositories)
+[Explorer mes dépôts GitHub](https://github.com/djama77?tab=repositories) · [Mon profil LinkedIn](https://www.linkedin.com/in/djama-ali-b986a41a3)
 
 </div>
