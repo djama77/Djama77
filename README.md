@@ -17,10 +17,11 @@
 
 Statisticien expérimenté, je travaille sur la collecte, la validation, l'analyse et la diffusion des données, ainsi que sur le développement d'outils numériques au service des statistiques officielles et du suivi-évaluation.
 
-- **Depuis 2022 :** Chef du Bureau régional de la statistique (INSTAD), Ali-Sabieh
-- **2022–2023 :** Coordinateur régional du RGPH-3
-- **2010–2022 :** Statisticien senior et coordinateur d'enquêtes
-- **2000–2010 :** Statisticien et agent informatique
+- **Depuis 2022 | Chef du Bureau régional de la statistique — INSTAD, Ali-Sabieh :** coordination des opérations statistiques, supervision des enquêtes, production d'indicateurs et encadrement des équipes.
+- **Depuis 2025 | Point focal du PND 2025–2030 — INSTAD :** suivi-évaluation, coordination statistique et appui à la planification du développement.
+- **2024–2025 | Coordination des recensements RGPH-3 et REGED :** organisation des opérations de terrain, formation de plus de 130 agents, contrôle qualité et validation des données.
+- **2002–2022 | Enseignement et conseil pédagogique en informatique — Ministère de l'Éducation nationale :** formation des enseignants, enseignement de l'informatique de gestion et développement des compétences numériques.
+- **2026 | Expert en statistiques et collecte de données — Cabinet Houfan R&T :** cartographie et analyse des activités économiques transfrontalières à Guélilé.
 
 ## Compétences techniques
 
