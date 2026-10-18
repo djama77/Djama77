@@ -21,7 +21,6 @@ Statisticien expérimenté, je travaille sur la collecte, la validation, l'analy
 - **Depuis 2025 | Point focal du PND 2025–2030 — INSTAD :** suivi-évaluation, coordination statistique et appui à la planification du développement.
 - **2024–2025 | Coordination des recensements RGPH-3 et REGED :** organisation des opérations de terrain, formation de plus de 130 agents, contrôle qualité et validation des données.
 - **2002–2022 | Enseignement et conseil pédagogique en informatique — Ministère de l'Éducation nationale :** formation des enseignants, enseignement de l'informatique de gestion et développement des compétences numériques.
-- **2026 | Expert en statistiques et collecte de données — Cabinet Houfan R&T :** cartographie et analyse des activités économiques transfrontalières à Guélilé.
 
 ## Compétences techniques
 
