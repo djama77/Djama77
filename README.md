@@ -1,79 +1,75 @@
 <div align="center">
 
-# Djama Ali Houssein
-### Statisticien | Économétrie | Intelligence artificielle
+# 👋 Djama Ali Houssein
 
-**Chef du Bureau régional de la statistique — INSTAD | Ali-Sabieh, Djibouti**
+### Statistician · Applied Econometrics · Python & Local AI · Open-Source Developer
 
-[![GitHub](https://img.shields.io/badge/GitHub-djama77-0B2345?logo=github&logoColor=white)](https://github.com/djama77)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Djama_Ali_Houssein-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djama-ali-b986a41a3)
+**Building practical tools for data science, education and responsible AI.**
 
-*Des données fiables pour des décisions éclairées.*
+📍 Djibouti · 🌐 French / English · 🤝 Open to open-source collaboration
+
+[![GitHub followers](https://img.shields.io/github/followers/djama77?style=flat-square&label=Followers)](https://github.com/djama77?tab=followers)
+[![Profile](https://img.shields.io/badge/GitHub-djama77-181717?style=flat-square&logo=github)](https://github.com/djama77)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/djama-ali-b986a41a3)
 
 </div>
 
 ---
 
-## À propos de moi
+## 🚀 Featured: SkillForge AI
 
-Statisticien expérimenté, je travaille sur la collecte, la validation, l'analyse et la diffusion des données, ainsi que sur le développement d'outils numériques au service des statistiques officielles et du suivi-évaluation.
+[![SkillForge AI](https://raw.githubusercontent.com/djama77/skillforge-ai/main/assets/skillforge-banner.svg)](https://github.com/djama77/skillforge-ai)
 
-- **Depuis 2022 | Chef du Bureau régional de la statistique — INSTAD, Ali-Sabieh :** coordination des opérations statistiques, supervision des enquêtes, production d'indicateurs et encadrement des équipes.
-- **Depuis 2025 | Point focal du PND 2025–2030 — INSTAD :** suivi-évaluation, coordination statistique et appui à la planification du développement.
-- **2024–2025 | Coordination des recensements RGPH-3 et REGED :** organisation des opérations de terrain, formation de plus de 130 agents, contrôle qualité et validation des données.
-- **2002–2022 | Enseignement et conseil pédagogique en informatique — Ministère de l'Éducation nationale :** formation des enseignants, enseignement de l'informatique de gestion et développement des compétences numériques.
+**[⭐ Explore SkillForge AI](https://github.com/djama77/skillforge-ai)** — Turn PDFs, Markdown and technical documentation into reviewable, source-grounded AI-agent skill drafts. Includes a local-first workflow, optional Ollama assistance, structural quality checks, a CLI and Streamlit UI.
 
-## Compétences techniques
+[Quick start](https://github.com/djama77/skillforge-ai#quick-start) · [Reproducible demo](https://github.com/djama77/skillforge-ai/blob/main/examples/DEMO.md) · [Contribute](https://github.com/djama77/skillforge-ai/blob/main/CONTRIBUTING.md) · [Open an issue](https://github.com/djama77/skillforge-ai/issues/new/choose)
 
-| Domaine | Outils et méthodes |
-|---|---|
-| Statistiques et économétrie | Stata, SPSS, R, Excel, régression, enquêtes |
-| Analyse et visualisation | Python, pandas, Power BI, tableaux de bord |
-| Collecte de données | KoBoToolbox, ODK, SurveyCTO |
-| Géomatique | QGIS |
-| Applications Web et Android | Streamlit, React, Capacitor |
-| Données et automatisation | SQL, SQLite, GitHub, workflows reproductibles |
+> **Current status:** V2 prototype. Generated skills require human review; portable exports are not yet verified native integrations.
 
-## Projets principaux
+## 👨‍💻 About me
 
-### [USTAAD AI](https://github.com/djama77/Ustaad-Ai)
-Application d'apprentissage du Coran pour le Web et Android, avec lecture, audio et fonctionnalités pédagogiques en développement.
+I am a statistician working on data collection, validation, applied analysis and the use of digital tools to strengthen statistical information systems. I lead the **INSTAD regional statistics office in Ali-Sabieh, Djibouti**, and develop practical tools connecting official statistics, data science, education and AI.
 
-### [StatisticiEnStad Data Analytics](https://github.com/djama77/StatisticiEnStad-Data-Analytics)
-Projet d'application d'analyse statistique assistée par Python et Streamlit.
+I am interested in reproducible research, locally deployable applications, statistical quality, accessible learning tools and international open-source collaboration.
 
-### [Copilote Bac Terminale S Djibouti](https://github.com/djama77/copilote-bac-terminale-s-djibouti)
-Projet d'application éducative de révision, avec objectif de diffusion Android.
+## 🧰 Tech stack
 
-### Plateforme PND Ali-Sabieh
-Projet de suivi-évaluation régional et de tableaux de bord des indicateurs de développement.
+| Area | Tools and methods |
+| --- | --- |
+| Statistical analysis | Stata, R, SPSS, econometrics, surveys |
+| Programming & data | Python, pandas, SQL, SQLite |
+| Apps & dashboards | Streamlit, Power BI, React |
+| Geospatial analytics | QGIS |
+| Field data collection | KoBoToolbox, ODK, SurveyCTO |
+| AI & automation | Ollama, local AI, GitHub Actions |
 
-## Formation
+## 📌 Selected public projects
 
-- Master 2 en économétrie et statistique appliquée — en cours
-- Master 1 en économétrie et statistiques appliquées
-- Formation en gestion de projet — en cours
+| Project | Focus |
+| --- | --- |
+| [**SkillForge AI**](https://github.com/djama77/skillforge-ai) | Source-grounded AI-agent skill drafts from documents |
+| [**Copilote Bac Terminale S Djibouti**](https://github.com/djama77/copilote-bac-terminale-s-djibouti) | Learning and revision assistant for high-school students |
+| [**USTAAD AI**](https://github.com/djama77/Ustaad-Ai) | Quran learning app for web and Android |
+| [**Mon École 3A Android**](https://github.com/djama77/Mon-Ecole-3A-Android) | Educational Android project for primary learners |
+| [**Qasida Cayniya**](https://github.com/djama77/Qasida-Cayniya-) | Digital learning and reading project |
 
-## Activité GitHub
+Some institutional statistical projects remain private; public links are only shown for repositories actually available to visitors.
 
-<div align="center">
+## 🎓 Background
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=djama77&show_icons=true&hide_border=true)
+- Master 1 in Applied Econometrics and Statistics
+- Master 2 studies in Applied Econometrics and Statistics (ongoing)
+- Project management studies (ongoing)
+- Experience coordinating surveys, statistical field teams and regional statistical operations
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=djama77&layout=compact&hide_border=true)
+## 🤝 Collaboration
 
-![GitHub Streak](https://streak-stats.demolab.com?user=djama77&hide_border=true)
-
-</div>
-
-> Les statistiques ci-dessus sont générées par des services externes et peuvent être temporairement indisponibles.
-
----
+I welcome constructive issues, documentation improvements, reproducible bug reports, tests, translations and pull requests. If you are interested in **Python, statistics, educational technology, offline AI or agent skills**, explore [my repositories](https://github.com/djama77?tab=repositories).
 
 <div align="center">
 
-**Statistiques officielles · Économétrie · Innovation numérique**
+### ⭐ Useful software grows through testing, documentation and community.
 
-[Explorer mes dépôts GitHub](https://github.com/djama77?tab=repositories) · [Mon profil LinkedIn](https://www.linkedin.com/in/djama-ali-b986a41a3)
+[Repositories](https://github.com/djama77?tab=repositories) · [SkillForge AI](https://github.com/djama77/skillforge-ai) · [LinkedIn](https://www.linkedin.com/in/djama-ali-b986a41a3)
 
 </div>
